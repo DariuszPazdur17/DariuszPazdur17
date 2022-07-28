@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dariusz</h1>
-<h3 align="center">I'm intrestd in Frontend development, I'm from Poland 🇵🇱 </h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5343519-Working/attachments/10816858?mode=media">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dariuszpazdur17&label=Profile%20views&color=0e75b6&style=flat" alt="dariuszpazdur17" /> </p>
+<h3 align="center">I'm intrestd in Frontend development, I'm from 🇵🇱 </h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/DariuszPazdur17/DariuszPazdur17/blob/main/programowanie.gif">
 
 - 🌱 I’m currently learning **JS ES6 and React**
 
