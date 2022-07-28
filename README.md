@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dariusz</h1>
-<h3 align="center">I'm intrestd in Frontend development, I'm from 🇵🇱 </h3>
+<h3 align="center">I'm interested in Frontend development, I'm from 🇵🇱 </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/DariuszPazdur17/DariuszPazdur17/blob/main/programowanie.gif">
 
 - 🌱 I’m currently learning **JS ES6 and React**
