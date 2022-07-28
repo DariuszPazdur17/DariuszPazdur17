@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dariuszpazdur17&show_icons=true&locale=en" alt="dariuszpazdur17" /></p>
 <hr style="border:1px outset;background-color:#FF0000;color:#FF0000;height:4px;width:150%" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dariuszpazdur17&" alt="dariuszpazdur17" /></p>
+<p allign = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dariuszpazdur17&" alt="dariuszpazdur17" /></p>
