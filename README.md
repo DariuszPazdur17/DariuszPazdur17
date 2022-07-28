@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariuszpazdur17&show_icons=true&locale=en&layout=compact" alt="dariuszpazdur17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dariuszpazdur17&show_icons=true&locale=en" alt="dariuszpazdur17" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dariuszpazdur17&" alt="dariuszpazdur17" /></p>
